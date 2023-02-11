@@ -1,0 +1,3 @@
+[submodule "waifu2x-ncnn-vulkan-python"]
+	path = waifu2x-ncnn-vulkan-python
+	url = https://gitee.com/xggsuser/waifu2x-ncnn-vulkan-python.git

@@ -1,2 +1,3 @@
 waifu2x-ncnn-vulkan-python
 pillow
+pyqt6
